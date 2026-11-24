@@ -1,225 +1,188 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:2563EB,50:7C3AED,100:06B6D4&text=TAHA%20RAJEL&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=13" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Intelligent+Applications;Exploring+AI+%26+Software+Engineering;From+Ideas+to+Real-World+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=E04435" width="100%" />
 
 <br/>
 
-<a href="https://github.com/Taha-Rajel"><img src="https://img.shields.io/badge/GitHub-Taha--Rajel-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/taha-rajel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:rajeltaha0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+# TAHA RAJEL.
 
-**Engineering intelligence into reality.**
+**COMPUTER ENGINEERING STUDENT**  
+`AI · SOFTWARE ENGINEERING · INTELLIGENT SYSTEMS`
 
-</div>
+<br/>
 
----
-
-## `01` / Digital Identity
-
-```yaml
-name: Taha Rajel
-role: Computer Engineering Student
-education: FST Settat, Morocco
-level: Second Year
-focus:
-  - Artificial Intelligence
-  - Software Engineering
-  - Backend Development
-  - Intelligent Systems
-  - Database Engineering
-currently_exploring:
-  - Generative AI
-  - AI Agents
-  - Cloud & DevOps
-```
-
-I'm a second-year Computer Engineering student specializing in Computer Science at **FST Settat, Morocco**.
-
-I enjoy designing and developing software solutions, exploring intelligent systems, and transforming technical ideas into practical applications.
-
-My work combines academic foundations, personal projects, and hands-on experience.
-
----
-
-## `02` / Technology Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-**AI & Data**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,maven" />
-
-</div>
-
----
-
-## `03` / Featured Projects
-
-### 01 — Professional Experience
-
-<a href="https://github.com/Taha-Rajel/OCP_Mining_Production_Management">
-<img src="https://img.shields.io/badge/Project-OCP%20Mining%20Management-2563EB?style=for-the-badge&logo=github" />
-</a>
-
-**Mining Production Management System — OCP Phosboucraâ**
-
-An internship project developed during an initiation internship at OCP – Phosboucraâ, Laâyoune, within the IT department.
-
-- Mining production monitoring and management.
-- Truck trips, stops and fleet monitoring.
-- Ore quality tracking.
-- Performance dashboards and reporting.
-
-**Technologies:** Java, Spring Boot, ASP.NET Core MVC, SQL Server.
-
-<a href="https://github.com/Taha-Rajel/OCP-Mining-Production-Management_Backend">
-<img src="https://img.shields.io/badge/Backend-REST%20API-7C3AED?style=for-the-badge&logo=github" />
-</a>
-
-Separate backend repository for the mining production management system.
-
-### 02 — AI & Intelligent Systems
-
-<a href="https://github.com/Taha-Rajel/OTA-Support">
-
-**OTA Support — AI-Powered Customer Support**
-
-</a>
-
-An intelligent telecom customer support agent combining conversational AI, voice interactions and knowledge retrieval.
-
-- Real-time voice calls and chat.
-- Speech-to-text and voice processing.
-- Retrieval-Augmented Generation (RAG).
-- Intelligent customer support.
-
-**Technologies:** Python, FastAPI, Groq, Llama, Whisper, Pinecone, PostgreSQL.
-
-<a href="https://github.com/Taha-Rajel/QA-Agent-System">
-
-**QA Agent System — Autonomous Website Testing**
-
-</a>
-
-An autonomous website testing system that uses multiple QA agents to inspect websites, capture screenshots and perform AI-powered visual checks.
-
-**Focus:** Multi-agent systems, automated testing and visual quality assurance.
-
-<a href="https://github.com/Taha-Rajel/DarijaAgent_Project">
-
-**DarijaAgent — Moroccan Darija Learning Platform**
-
-</a>
-
-An AI-powered web application that helps users learn Moroccan Darija through conversations, quizzes and cultural insights.
-
-**Team DarijaAI:** Taha Rajel · Oussama Tarchi · Ali Zouine.
-
-**Technologies:** Python, CrewAI, Groq, Flask, HTML.
-
-<a href="https://github.com/Taha-Rajel/Gestion_Pharmacie">
-
-**Gestion Pharmacie — Pharmacy Management System**
-
-</a>
-
-A desktop application designed to manage pharmacy operations, customers, medicines and inventory.
-
-**Technologies:** Java, Swing, MySQL.
-
-### 03 — Computer Science & Mathematics
-
-<a href="https://github.com/Taha-Rajel/Markov-Chain-Stationary-Distribution_CMTCED">
-
-**Continuous-Time Markov Chains (CTMC)**
-
-</a>
-
-A Python implementation for calculating stationary distributions of Continuous-Time Markov Chains.
-
-<a href="https://github.com/Taha-Rajel/Markov-Chain-Stationary-Distribution_CMTDED">
-
-**Discrete-Time Markov Chains (DTMC)**
-
-</a>
-
-A Python implementation for calculating stationary distributions of Discrete-Time Markov Chains.
-
----
-
-## `04` / GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taha-Rajel&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Rajel&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<a href="https://github.com/Taha-Rajel"><img src="https://img.shields.io/badge/GitHub-Taha--Rajel-171717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/taha-rajel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-E04435?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rajeltaha0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-171717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Taha-Rajel&theme=default&hide_border=true" />
+<sub>**MOROCCO / FST SETTAT / 2026**</sub>
 
 </div>
 
 ---
 
-## `05` / Contribution Graph
+## `01` — PROFILE
+
+I'm **Taha Rajel**, a second-year Computer Engineering student specializing in Computer Science at **FST Settat, Morocco**.
+
+My interests lie at the intersection of software engineering and intelligent technologies. I enjoy designing reliable applications, building AI-driven solutions, and understanding the engineering principles behind scalable backend and data systems.
+
+**AREAS OF INTEREST**
+- **Artificial Intelligence & Generative AI**
+- **Software Engineering & Backend Development**
+- **Autonomous Agents & RAG Systems**
+- **Database Engineering & Modeling**
+- **Cloud Computing & DevOps**
+- **Algorithms & Applied Mathematics**
+
+---
+
+## `02` — TECHNOLOGY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Rajel&bg_color=ffffff&color=2563eb&line=7c3aed&point=06b6d4&area=true&hide_border=true" width="100%" />
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,js,html,css" />
+
+<br/><br/>
+
+**BACKEND & FRAMEWORKS**
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,flask" />
+
+<br/><br/>
+
+**DATABASES**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-171717?style=for-the-badge&logo=pinecone&logoColor=white" />
+
+<br/><br/>
+
+**DEVELOPMENT ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,visualstudio,maven,playwright" />
 
 </div>
 
 ---
 
-## `06` / Beyond the Code
+## `03` — SELECTED PROJECTS
 
-- ⚽ Football
-- 🏊 Swimming
-- 📚 Continuous Learning
-- 💡 Exploring New Technologies
+*Eight repositories. Three areas of engineering.*
+
+### `01` / INDUSTRY & PROFESSIONAL EXPERIENCE
+
+#### **OCP — MINING PRODUCTION MANAGEMENT** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/OCP_Mining_Production_Management)
+Mining production management and monitoring system developed during an initiation internship at **OCP – Phosboucraâ (Laâyoune)**, within the IT department.
+- Truck trips and fleet movement monitoring.
+- Mining production tracking and operational KPIs.
+- Ore quality and truck stops management.
+- Decision-making performance dashboards and reporting.
+
+`JAVA` `SPRING BOOT` `ASP.NET CORE MVC` `SQL SERVER`
+
+#### **OCP MINING PRODUCTION MANAGEMENT — BACKEND** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/OCP-Mining-Production-Management_Backend)
+REST API powering mining production operations, handling truck trips, truck stops, ore quality metrics, and fleet reference data.
+
+`JAVA` `SPRING BOOT` `REST API` `MAVEN`
 
 ---
 
-## `07` / Let's Connect
+### `02` / ARTIFICIAL INTELLIGENCE & SOFTWARE
+
+#### `01` — **OTA SUPPORT** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/OTA-Support)
+AI-powered telecom customer support agent combining conversational chat, real-time voice calls, and knowledge retrieval (RAG).
+
+`PYTHON` `FASTAPI` `GROQ` `WHISPER` `PINECONE` `POSTGRESQL`
+
+#### `02` — **QA AGENT SYSTEM** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/QA-Agent-System)
+Autonomous website testing tool that orchestrates multiple QA agents to crawl pages, capture screenshots, and perform AI-powered visual checks.
+
+`PYTHON` `AI AGENTS` `PLAYWRIGHT` `VISION AI`
+
+#### `03` — **DARIJA AGENT** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/DarijaAgent_Project)
+AI-powered web application that teaches Moroccan Darija through interactive conversations, quizzes, and cultural insights.  
+*Built by **Team DarijaAI** — Taha Rajel · Oussama Tarchi · Ali Zouine.*
+
+`PYTHON` `CREWAI` `GROQ` `FLASK` `HTML`
+
+#### `04` — **PHARMACY MANAGEMENT SYSTEM** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/Gestion_Pharmacie)
+Desktop pharmacy management application built with MVC architecture to manage medicines, expiration tracking, customers, and inventory.
+
+`JAVA` `SWING` `JDBC` `MYSQL`
+
+---
+
+### `03` / COMPUTER SCIENCE & MATHEMATICS
+
+#### `01` — **CONTINUOUS-TIME MARKOV CHAINS (CTMC)** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/Markov-Chain-Stationary-Distribution_CMTCED)
+Python implementation for computing the stationary distribution of Continuous-Time Markov Chains.
+
+`PYTHON` `CTMC` `STOCHASTIC PROCESSES`
+
+#### `02` — **DISCRETE-TIME MARKOV CHAINS (DTMC)** &nbsp; [`VIEW PROJECT ↗`](https://github.com/Taha-Rajel/Markov-Chain-Stationary-Distribution_CMTDED)
+Python implementation for computing the stationary distribution of Discrete-Time Markov Chains.
+
+`PYTHON` `DTMC` `LINEAR ALGEBRA`
+
+---
+
+## `04` — GITHUB STATISTICS
 
 <div align="center">
 
-Interested in technology, AI, software development or collaborative projects?
-
-**Let's connect and build something meaningful.**
-
-<a href="https://github.com/Taha-Rajel"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/taha-rajel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:rajeltaha0@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taha-Rajel&show_icons=true&hide_border=true&bg_color=F5F4EF&title_color=171717&text_color=555555&icon_color=E04435&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Rajel&layout=compact&hide_border=true&bg_color=F5F4EF&title_color=171717&text_color=555555&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Taha-Rajel&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Taha-Rajel&hide_border=true&background=F5F4EF&ring=E04435&fire=E04435&currStreakLabel=171717" />
+
+</div>
+
+---
+
+## `05` — CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Rajel&bg_color=F5F4EF&color=171717&line=E04435&point=171717&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `06` — BEYOND ENGINEERING
+
+**INTERESTS**  
+`Football` / `Swimming` / `Continuous Learning` / `Technology Exploration`
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E04435" width="100%" />
+
+<br/>
+
+**THINK CLEARLY. BUILD PURPOSEFULLY.**  
+<sub>OPEN TO LEARNING / COLLABORATION / NEW CHALLENGES</sub>
 
 <br/><br/>
 
-*Think. Build. Experiment. Improve.*
+[GitHub](https://github.com/Taha-Rajel) · [LinkedIn](https://www.linkedin.com/in/taha-rajel/) · [Email](mailto:rajeltaha0@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=110&section=footer" width="100%" />
+<br/>
+
+<sub>DESIGNED WITH PRECISION. ENGINEERED WITH PURPOSE.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Taha-Rajel&style=flat-square&color=E04435&label=PROFILE+VISITORS" />
 
 </div>
